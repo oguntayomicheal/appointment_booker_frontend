@@ -21,7 +21,7 @@ const RegistrationForm = () => {
     }));
   };
 
-  const url = 'http://127.0.0.1:4000/api/v1/users';
+  const url = 'https://doctors-appointment-3nvy.onrender.com/api/v1/users';
   const handleSubmit = async (e) => {
     e.preventDefault();
 

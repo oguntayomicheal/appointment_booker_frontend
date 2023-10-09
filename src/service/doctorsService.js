@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BaseUrl = 'http://localhost:4000/api/v1';
+const BaseUrl = 'https://doctors-appointment-3nvy.onrender.com/api/v1';
 
 export const CreateDoctor = async (payload) => {
   try {

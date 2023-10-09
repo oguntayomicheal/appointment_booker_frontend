@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const baseURL = 'http://localhost:4000/api/v1/';
+const baseURL = 'https://doctors-appointment-3nvy.onrender.com/api/v1/';
 const initialState = {
   doctorDetails: {},
   isLoading: false,

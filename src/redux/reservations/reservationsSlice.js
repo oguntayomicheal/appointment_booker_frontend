@@ -6,8 +6,8 @@ const getUserId = () => {
   return userData ? userData.id : null;
 };
 
-const url = 'http://localhost:4000/api/v1/users';
-const BaseUrl = 'http://localhost:4000/api/v1';
+const url = 'https://doctors-appointment-3nvy.onrender.com/api/v1/users';
+const BaseUrl = 'https://doctors-appointment-3nvy.onrender.com/api/v1';
 
 export const fetchAllReservations = createAsyncThunk(
   'reservations/fetchAll',
