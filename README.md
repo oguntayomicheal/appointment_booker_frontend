@@ -149,14 +149,14 @@ npm test
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[Add and Delete doctor functionality only for admins ]**
-- [] **[Removing dates and sessions that have been booked already ]**
+- [] **Add and Delete doctor functionality only for admins**
+- [] **Removing dates and sessions that have been booked already**
 
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/0sugo/appointment_booker_frontend/issues).
+Feel free to check the [issues page](https://github.com/oguntayomicheal/appointment_booker_frontend/issues).
 
 ## ⭐️ Show your support <a name="support"></a>
 
