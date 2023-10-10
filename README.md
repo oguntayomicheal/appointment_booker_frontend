@@ -30,7 +30,7 @@
 
 **Appointment_booker_front_end** is a frontend react app for our doctors appointment booking application. It shows the features of the app and provides a user with better experience and interface. The app was developed by three developers
 
-##### [Link to the back-end repo](https://github.com/0sugo/appointment_booker_backend.git)
+##### [Link to the back-end repo](https://github.com/oguntayomicheal/appointment_booker_backend)
 
 ##### [Link to the kanbarn board](https://github.com/0sugo/appointment_booker_backend/projects/1)
 
