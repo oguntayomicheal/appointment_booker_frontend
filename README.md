@@ -5,10 +5,10 @@
 # 📗 Table of Contents
 - [Doctor\_appointment\_reservation\_front\_end](#doctor_appointment_reservation_front_end)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Appointment\_booker\_front\_end\] ](#-appointment_booker_front_end-)
-  - [Link to the back-end repo](#link-to-the-back-end-repo)
-  - [Link to the kanbarn board](#link-to-the-kanbarn-board)
-  - [Link to the kanbarn board at its initial state](#link-to-the-kanbarn-board-at-its-initial-state)
+- [📖 Appointment\_booker\_front\_end ](#-appointment_booker_front_end-)
+        - [Link to the back-end repo](#link-to-the-back-end-repo)
+        - [Link to the kanbarn board](#link-to-the-kanbarn-board)
+        - [Link to the kanbarn board at its initial state](#link-to-the-kanbarn-board-at-its-initial-state)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -26,15 +26,15 @@
   - [🙏Acknowledgments ](#acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 [Appointment_booker_front_end] <a name="about-project"></a>
+# 📖 Appointment_booker_front_end <a name="about-project"></a>
 
-**[Appointment_booker_front_end]** is a frontend react app for our doctors appointment booking application. It shows the features of the app and provides a user with better experience and interface
+**Appointment_booker_front_end** is a frontend react app for our doctors appointment booking application. It shows the features of the app and provides a user with better experience and interface. The app was developed by three developers
 
-## [Link to the back-end repo](https://github.com/0sugo/appointment_booker_backend.git)
+##### [Link to the back-end repo](https://github.com/0sugo/appointment_booker_backend.git)
 
-## [Link to the kanbarn board](https://github.com/0sugo/appointment_booker_backend/projects/1)
+##### [Link to the kanbarn board](https://github.com/0sugo/appointment_booker_backend/projects/1)
 
-## [Link to the kanbarn board at its initial state](./public/kanban%20board.png)
+##### [Link to the kanbarn board at its initial state](./public/kanban%20board.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,12 +56,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Render available doctors]**
-- **[Add doctors]**
-- **[Delete doctors]**
-- **[Reserve an appointment with a specific doctor]**
-- **[View all appointments for a specific user]**
-- **[Delete an appointment with a specific doctor]**
+- **Render available doctors**
+- **Add doctors**
+- **Delete doctors**
+- **Reserve an appointment with a specific doctor**
+- **View all appointments for a specific user**
+- **Delete an appointment with a specific doctor**
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -84,7 +84,7 @@ In order to run this project you need a web browser.
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/0sugo/appointment_booker_frontend.git
+  git clonegit@github.com:oguntayomicheal/appointment_booker_frontend.git
   cd appointment_booker_frontend
 ```
 
@@ -149,7 +149,7 @@ npm test
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[Delete functionality only for admins ]**
+- [] **[Add and Delete doctor functionality only for admins ]**
 - [] **[Removing dates and sessions that have been booked already ]**
 
 
